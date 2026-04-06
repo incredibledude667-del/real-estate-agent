@@ -1,0 +1,28 @@
+fragment LandingParts on Landing {
+  __typename
+  brand
+  variant
+  heroEyebrow
+  heroTitle
+  heroSubtitle
+  heroImage
+  primaryCta
+  primaryCtaUrl
+  secondaryCta
+  secondaryCtaUrl
+  supportKicker
+  supportTitle
+  supportBody
+  supportImage
+  detailKicker
+  detailTitle
+  detailBody
+  detailImage
+  closingEyebrow
+  closingTitle
+  closingBody
+  closingCta
+  closingCtaUrl
+  phone
+  footerNote
+}
